@@ -93,6 +93,7 @@ on:
           - -autumn-harvesting
           - -winter-storing
           - -yourname
+          - -s905x-r212-jimedrand
       kernel_config:
         description: "Set the path of kernel .config"
         required: false
